@@ -1,4 +1,4 @@
-# React-Axios
+# React-Axios-MaterialUi
 
 A simple react application for data fetching using axios.
 
