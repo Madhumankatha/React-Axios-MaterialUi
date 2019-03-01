@@ -2,7 +2,7 @@
 
 A simple react application for data fetching using axios.
 
-<img src="public/github.png" height="300px" />
+<img src="public/github.png" height="50%" />
 
 ## Live 
 
