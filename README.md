@@ -2,46 +2,23 @@
 
 A simple react application for data fetching using axios.
 
-
-
-##Library
-
+## Library
 
 Axios : https://www.npmjs.com/package/axios
-
 Material-UI : https://material-ui.com
 
-
-
-##Install
-
+## Install
 
 Install dependencies uisng NPM
-> 
-
-npm install
-
-
+> npm install
 
 Install dependencies uisng yarn
+> yarn install
 
-
->yarn install
-
-
-
-##Start
-
- 
+## Start
 
 run project uisng NPM
-
-
->npm start
-
-
+> npm start
 
 run project uisng yarn
->
-
-yarn start
+> yarn start
