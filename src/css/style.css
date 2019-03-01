@@ -1,0 +1,15 @@
+.inline {
+    width: 100%;
+    display:inline-block;
+    overflow: auto;
+    white-space: nowrap;
+    margin-top:10px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
